@@ -31,3 +31,7 @@ Windowsでは「Git Bash」MACでは「ターミナル」を使ってコマンド操作を行う。
 `git branch`
 
 `git checkout`
+
+* **□□□を削除する**
+
+`git rm □□□`
