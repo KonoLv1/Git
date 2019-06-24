@@ -13,3 +13,13 @@ bash: cd: too many arguments`
 fatal: Couldn't find remote ref master`
 
 **GitHub本体にマスターがないのではないか**
+
+# LFはCRLFに置き換えられます。ファイルは作業ディレクトリ内で元の行の末尾に表示されます。
+
+`$ git add Study1 <br>
+warning: LF will be replaced by CRLF in Study1/menu.html. <br>
+The file will have its original line endings in your working directory.`
+
+**????**
+
+
